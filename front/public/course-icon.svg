@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 书本形状 -->
+  <path d="M10,8 L54,8 C56,8 58,10 58,12 L58,52 C58,54 56,56 54,56 L10,56 C8,56 6,54 6,52 L6,12 C6,10 8,8 10,8 Z" fill="#1450aa"/>
+  
+  <!-- 书本装饰 -->
+  <path d="M10,8 L14,8 L14,56 L10,56 Z" fill="#4481cc"/>
+  
+  <!-- 课程列表 -->
+  <rect x="20" y="16" width="30" height="4" rx="2" fill="white"/>
+  <rect x="20" y="24" width="30" height="4" rx="2" fill="white"/>
+  <rect x="20" y="32" width="30" height="4" rx="2" fill="white"/>
+  <rect x="20" y="40" width="20" height="4" rx="2" fill="white"/>
+  
+  <!-- 选课标记 -->
+  <circle cx="46" cy="42" r="8" fill="#ff7043"/>
+  <path d="M42,42 L45,45 L50,40" stroke="white" stroke-width="2" fill="none"/>
+</svg> 
